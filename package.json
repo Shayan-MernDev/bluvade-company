@@ -15,10 +15,10 @@
     "swiper": "^11.1.15",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://github.com/Shayan-MernDev/bluvade-company",
 
   "scripts": {
-    "deploy": "gh-pages -d build"
+    "script": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
