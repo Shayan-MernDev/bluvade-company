@@ -18,7 +18,6 @@
   "homepage": "https://github.com/Shayan-MernDev/bluvade-company",
 
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
     "test": "react-scripts test",
     "eject": "react-scripts eject"
